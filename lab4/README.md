@@ -70,11 +70,8 @@
 ### Тестирование
 Сложение времени
 <img width="448" height="321" alt="image" src="https://github.com/user-attachments/assets/35743c99-4331-4b31-865b-db2d13876ced" />
-Прибавление минут к времени
 <img width="423" height="289" alt="image" src="https://github.com/user-attachments/assets/a44cdb29-60b3-4a02-a38e-902c469621b0" />
-Удаление одной минуты (постфикс и префикс декремент)
 <img width="564" height="237" alt="image" src="https://github.com/user-attachments/assets/1096f3a2-2b15-4819-a7b6-35e8c853a588" />
-Явное/неявное приведение к short int и bool
 <img width="605" height="331" alt="image" src="https://github.com/user-attachments/assets/9074b331-5a91-4aa3-a9f2-8668ca4aac35" />
 <img width="629" height="333" alt="image" src="https://github.com/user-attachments/assets/a1e7cafc-ed3c-40a9-83ac-833a67f0d90b" />
 
