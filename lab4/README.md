@@ -68,7 +68,6 @@
 6. Вернуть результирующий объект
 
 ### Тестирование
-Сложение времени
 <img width="448" height="321" alt="image" src="https://github.com/user-attachments/assets/35743c99-4331-4b31-865b-db2d13876ced" />
 <img width="423" height="289" alt="image" src="https://github.com/user-attachments/assets/a44cdb29-60b3-4a02-a38e-902c469621b0" />
 <img width="564" height="237" alt="image" src="https://github.com/user-attachments/assets/1096f3a2-2b15-4819-a7b6-35e8c853a588" />
